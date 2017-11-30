@@ -1,0 +1,29 @@
+# Visual Studio 2015 cache/options directory
+.vs/
+# Rider
+.idea/
+
+
+Library
+Temp
+obj
+Builds
+Data
+PQData
+app_ios
+BuildReport
+BuildReport.meta
+*.sln
+*.csproj
+*.unityproj
+*.pidb
+*.suo
+*.userprefs
+*.lock
+*.DotSetting
+*.DS_Store
+/.vs
+/.idea
+SyntaxTree.VisualStudio.Unity.Bridge.dll
+SyntaxTree.VisualStudio.Unity.Messaging.dll
+UnityVS.VersionSpecific.dll
